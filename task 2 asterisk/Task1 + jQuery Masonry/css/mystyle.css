@@ -1,0 +1,105 @@
+body {
+	background-color: #EFEFEF; 
+}
+.site-header-black {
+	outline: 1px solid black;
+	line-height: 50px;
+	background-color: #333333;
+}
+.site-header-gray {
+	outline: 1px solid black;
+	margin-bottom: 40px;
+	background-color: #DBDBDB;
+}
+.site-header-black, .site-header-gray {
+	height: 50px;
+}
+.classified-ads {
+	outline: 1px solid black;
+	color: #FFFFFF;
+	font-size: 1.5em;
+}
+.classified-ads, footer {
+	font-weight: bold;
+}
+.banners {
+	outline: 1px solid black;
+}
+.ban1, .ban2, .ban3, .ban4, .ban5, .ban6 {
+	margin-bottom: 10px;
+}
+.yellow-wrap {
+	outline: 1px solid black;
+	position: relative;
+	background-color: #FEF5CA;
+}
+.banners, .yellow-wrap, .white-wrap {
+	min-width: 214px;
+	max-width: 214px;
+}
+.yellow-highlighting {
+	outline: 1px solid black;
+	background-color: #F5ECC3;
+}
+.white-wrap {
+	outline: 1px solid black;
+	position: relative;
+}
+.white-wrap, .yellow-wrap, .white-wrap2 {
+	margin-bottom: 10px;
+}
+.price-image {
+	outline: 1px solid black;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.white-highlighting {
+	outline: 1px solid black;
+	background-color: #F7F7F7;	
+	color: #C0C0C0;
+}
+.white-highlighting, .yellow-highlighting {
+	padding-left: 10px;
+}
+.white-wrap2 {
+	outline: 1px solid black;
+	min-width: 441px; 
+	max-width: 441px;
+}
+.white-wrap, .white-wrap2 {
+	background-color: #FFFFFF;
+}
+h4, .description, .c2v {
+	margin-left: 10px;
+}
+.golf-turbo, .bonita, .limpio {
+	padding-top: 13px;
+}
+.c1, .c2, .c3, .c4, .c5_2, .c1wp {
+	margin-top: 10px;
+	margin-left: 10px;
+}
+footer {
+	outline: 1px solid black;
+	line-height: 100px;
+	height: 100px;
+	background-color: #333333;
+	color: #FFFFFF;
+	font-size: 1.2em;
+}
+.site-footer {
+	margin-top: 40px;
+}
+.copyright {
+	outline: 1px solid black;
+	text-align: center;
+}
+
+.white-wrap, .white-wrap2, .yellow-wrap, .description, .banners {
+	float: left;
+}
+
+/*.col-md-3, .col-md-6, .col-md-12 {
+	float: left;
+}*/
